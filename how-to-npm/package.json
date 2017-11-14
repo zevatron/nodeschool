@@ -1,0 +1,13 @@
+{
+  "name": "@zevatron/how-to-npm",
+  "version": "1.0.1",
+  "description": "Tutorial sobre npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "José Ricardo",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": "http://localhost:8080/"
+}
